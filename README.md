@@ -8,6 +8,7 @@ Ce projet est une application développée en langage Python permettant de gére
 - **Service gRPC** : Sert d’intermédiaire entre le service REST et la couche de données. Il implémente  la communication avec la couche de données via des appels de fonctions.
 - **Couche de Données** : Responsable de l’accès aux données, elle exécute les requêtes SQL sur la base de données SQLite.
 - **Base de Données (SQLite)** : Stocke les informations relatives aux chambres et aux réservations.
+<img width="737" alt="Capture d’écran 2024-10-28 à 14 20 23" src="https://github.com/user-attachments/assets/ccdfd1eb-a640-4bc8-b7b1-125449c510e0">
 
 ## Initialisation du Projet
 
